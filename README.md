@@ -1,5 +1,5 @@
 # PoliticianProject
-Tracking politician &amp; their rating them based on promises fulfilled
+Tracking politician &amp; rating them based on promises fulfilled
 
 ## The plan
 1. Get the manifesto of targeted political person / party.
